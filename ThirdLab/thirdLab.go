@@ -21,14 +21,14 @@ func findLongestString(slice []string) string {
 }
 
 func main() {
-	//Задание 1
+	//Задание 1 & 2
 	fmt.Println("Task one")
 	var a int
 	fmt.Print("Enter value for factorial: ")
 	fmt.Scanln(&a)
 	fmt.Println("Factorial: ", mathutils.Factorial(a))
 
-	//Задание 2 & 3
+	//Задание 3
 	fmt.Println("\nTask two")
 	myString := "12345"
 	fmt.Println("Reverse: ", stringutils.Reverse(myString))

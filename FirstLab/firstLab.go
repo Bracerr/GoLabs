@@ -60,7 +60,6 @@ func main() {
 
 	//Задание 6
 	fmt.Println("\nTask Six")
-	// fmt.Println(countAverageNumber(10, 20, 30))
 	var c int
 	fmt.Print("First value: ")
 	fmt.Scanln(&a)
